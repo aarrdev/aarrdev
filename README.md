@@ -1,6 +1,6 @@
 ![e](carbon.png)
 
-### Hi, I exist
+# Hi, I exist
 
 My name is bap, and i enjoy playing games and coding in JS.
 
